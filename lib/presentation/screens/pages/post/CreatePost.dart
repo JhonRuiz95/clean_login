@@ -38,6 +38,7 @@ class _CreatePostState extends State<CreatePost> {
                       BackButtomContainer(),
                       Spacer(),
                       Padding(
+                          //Texto del encabezado
                           padding: EdgeInsets.all(8),
                           child: Text(
                             "Crear Publicación",
